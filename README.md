@@ -3,7 +3,7 @@ web crawler capable of extracting data from an e-commerce website efficiently
 
 ## Overview
 
-This Python script is a web crawler designed to scrape product data from a website. The current implementation targets "https://www.jiomart.com/" and extracts information about products, including URL, name, price, image, and description. The script limits the crawling depth and the number of visited links.
+This Python script is a web crawler designed to scrape product data from a website. The current implementation targets "https://www.jiomart.com/" and extracts information about products, including URL, name, price. The script limits the crawling depth and the number of visited links.
 
 ## Prerequisites
 
